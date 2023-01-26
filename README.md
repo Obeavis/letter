@@ -1,18 +1,8 @@
-# create-svelte
+Projeto criado para o teste de desenvolvedor frontend.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Projeto pode ser visto rodando aqui : https://letter-chi.vercel.app/
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+[Live Demo](https://letter-chi.vercel.app/).
 
 ## Developing
 
