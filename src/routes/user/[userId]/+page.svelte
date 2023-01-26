@@ -36,7 +36,7 @@
 	<div class="grid md:grid-cols-2 xl:grid-cols-5 gap-5 w-full mt-10">
 		{#each user.posts as post}
 			<div
-				class={`flex flex-col text-center shadow-3xl font-hallelujah w-72 p-4 rotate-[${getRandom(
+				class={`flex flex-col text-center shadow-2xl w-72 hover:z-50 hover:scale-[1.02] p-4 rotate-[${getRandom(
 					rotates
 				)}deg] ${getRandom(colors)}`}
 			>
